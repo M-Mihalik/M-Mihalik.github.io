@@ -142,17 +142,13 @@ text-align: justify;
 }
 
 
-}
+
 /* Software Experience */
 .softwarebody {
   font-weight: bold;
   background-color: white;
 }
 
-.softwareexperienceh1 {
-  font-weight: bold;
-  font-size: 3.5rem;
-}
 
 .softwareexperienceh2 {
   text-align: left;
