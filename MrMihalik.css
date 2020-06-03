@@ -205,3 +205,28 @@ height:180px;
 #lastgallerypic{
   margin: 0 auto 0 auto;
 }
+@media (max-width:991px) {
+.indexcard{
+  margin: auto;
+}
+.portrait{
+  height: 37%;
+  width: 37%;
+  margin: 1% auto 8% auto;
+}
+.card-img-top{
+  height: 32%;
+  width: 32%;
+  margin: auto;
+}
+@media (min-width:576px) and (max-width:991px) {
+  .portrait{
+    height: 30%;
+    width: 30%;
+    margin: 1% auto 8% auto;
+  }
+  .card-img-top{
+    height: 50%;
+    width: 50%;
+    margin: auto;
+}
