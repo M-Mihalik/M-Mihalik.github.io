@@ -219,6 +219,10 @@ height:180px;
   width: 32%;
   margin: auto;
 }
+  h1{
+    font-size: 2rem;
+  }
+}
 @media (min-width:576px) and (max-width:991px) {
   .portrait{
     height: 30%;
@@ -229,4 +233,11 @@ height:180px;
     height: 50%;
     width: 50%;
     margin: auto;
+}
+h1{
+  font-size: 2rem;
+}
+h1{
+  font-size: 2rem;
+}
 }
