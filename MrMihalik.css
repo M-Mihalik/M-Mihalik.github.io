@@ -239,11 +239,9 @@ height:180px;
     width: 50%;
     margin: auto;
 }
+
 h1{
-  font-size: 2rem;
-}
-h1{
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .worklogo{
   height: 59.5px;
@@ -255,5 +253,14 @@ h1{
   height: 105px;
   width: 105px;
   margin: 28px 5.25px;
+}
+
+.studieslogo{
+  height: 84px;
+  width: 84px;
+  margin: 28px;
+}
+.studiesdiv{
+  padding-right: 10px;
 }
 }
