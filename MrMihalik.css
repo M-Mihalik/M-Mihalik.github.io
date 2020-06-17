@@ -224,9 +224,11 @@ height:180px;
   }
 }
 @media (min-width:300px) and (max-width:991px) {
-  #workexperiencebody{
-    margin-right: 10px;
-  }
+
+.Catsurveys,.HMZrinyi1,.HMZrinyi2,.Operator{
+  padding-right: 10px;
+}
+
   .portrait{
     height: 30%;
     width: 30%;
