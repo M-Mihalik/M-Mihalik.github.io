@@ -106,7 +106,7 @@ margin: 5% 0 3% 0;
 .catlogo{
   height: 150px;
   width: 150px;
-  margin: 40px 10px 40px 10px;
+  margin: 40px 7.5px 40px 7.5px;
 }
 .HMbadge{
 margin: 15px 40px;
@@ -239,5 +239,16 @@ h1{
 }
 h1{
   font-size: 2rem;
+}
+.worklogo{
+  height: 59.5px;
+  width: 59.5px;
+  margin: 40px 28px;
+}
+
+.catlogo{
+  height: 105px;
+  width: 105px;
+  margin: 28px 5.25px;
 }
 }
