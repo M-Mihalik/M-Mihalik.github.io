@@ -144,11 +144,6 @@ text-align: justify;
 
 
 /* Software Experience */
-.softwarebody {
-  font-weight: bold;
-  background-color: white;
-}
-
 
 .softwareexperienceh2 {
   text-align: left;
@@ -199,9 +194,7 @@ height:180px;
   width: 50%;
 }
 
-.container-fluid{
-  margin:0;
-}
+
 #lastgallerypic{
   margin: 0 auto 0 auto;
 }
@@ -221,6 +214,7 @@ height:180px;
 }
   h1{
     font-size: 2rem;
+    margin: 0;
   }
 }
 @media (min-width:300px) and (max-width:991px) {
@@ -242,6 +236,7 @@ height:180px;
 
 h1{
   font-size: 1.2rem;
+  margin: 0;
 }
 .worklogo{
   height: 59.5px;
@@ -262,5 +257,10 @@ h1{
 }
 .studiesdiv{
   padding-right: 10px;
+}
+
+.softwareimg {
+  height: 31.85px;
+  width: 98px;
 }
 }
