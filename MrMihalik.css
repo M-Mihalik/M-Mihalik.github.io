@@ -263,4 +263,15 @@ h1{
   height: 31.85px;
   width: 98px;
 }
+.licensealign{
+  vertical-align: top;
+}
+
+
+.licensetable{
+  text-align: left;
+  margin: auto;
+  line-height: 1.5;
+  border-spacing: 15px;
+  border-collapse: separate;
 }
