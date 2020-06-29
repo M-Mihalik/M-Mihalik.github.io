@@ -267,11 +267,24 @@ h1{
   vertical-align: top;
 }
 
-
 .licensetable{
   text-align: left;
   margin: auto;
   line-height: 1.5;
   border-spacing: 15px;
   border-collapse: separate;
+}
+
+.publicationstable{
+  line-height: 2.5;
+  text-align: left;
+  border-spacing: 8px;
+  border-collapse: separate;
+  }
+.publicationstableheader{
+vertical-align: top;
+  }
+.publicationsdiv{
+  padding-right: 10px;
+}
 }
