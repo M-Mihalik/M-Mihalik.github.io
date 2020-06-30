@@ -194,7 +194,10 @@ height:180px;
   width: 50%;
 }
 
+.galleryrow{
 
+  margin: 0;
+}
 #lastgallerypic{
   margin: 0 auto 0 auto;
 }
